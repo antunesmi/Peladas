@@ -1,0 +1,255 @@
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Peladas-WebAPI.exe
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Peladas-WebAPI.deps.json
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Peladas-WebAPI.runtimeconfig.json
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Peladas-WebAPI.runtimeconfig.dev.json
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Peladas-WebAPI.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Peladas-WebAPI.pdb
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.csprojAssemblyReference.cache
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.AssemblyInfoInputs.cache
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.AssemblyInfo.cs
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.RazorTargetAssemblyInfo.cache
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Peladas-WebAPI.StaticWebAssets.Manifest.cache
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Peladas-WebAPI.StaticWebAssets.xml
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.dll
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.pdb
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.genruntimeconfig.cache
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Workspace\Peladas\Peladas-WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Peladas\Peladas-WebAPI\obj\Debug\netcoreapp3.1\Peladas-WebAPI.csproj.CopyComplete
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.exe
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.deps.json
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.runtimeconfig.json
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.runtimeconfig.dev.json
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.pdb
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.csprojAssemblyReference.cache
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.AssemblyInfoInputs.cache
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.AssemblyInfo.cs
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.RazorTargetAssemblyInfo.cache
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.csproj.CopyComplete
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\staticwebassets\Peladas-WEBAPI.StaticWebAssets.Manifest.cache
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\staticwebassets\Peladas-WEBAPI.StaticWebAssets.xml
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.dll
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.pdb
+C:\Workspace\22- Sem funcionar o post\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.genruntimeconfig.cache
+C:\Workspace\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Workspace\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Workspace\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.exe
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.deps.json
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.runtimeconfig.json
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.runtimeconfig.dev.json
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Peladas-WEBAPI.pdb
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.csprojAssemblyReference.cache
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.AssemblyInfoInputs.cache
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.AssemblyInfo.cs
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.RazorTargetAssemblyInfo.cache
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.csproj.CopyComplete
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\staticwebassets\Peladas-WEBAPI.StaticWebAssets.Manifest.cache
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\staticwebassets\Peladas-WEBAPI.StaticWebAssets.xml
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.dll
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.pdb
+C:\Workspace\BKP\25- O enviado\Peladas\Peladas-WEBAPI\obj\Debug\netcoreapp3.1\Peladas-WEBAPI.genruntimeconfig.cache

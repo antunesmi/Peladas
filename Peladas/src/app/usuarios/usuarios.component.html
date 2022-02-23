@@ -1,0 +1,82 @@
+
+<div class="row">
+  
+  <div class = "col-sm-6"  *ngIf="usuarioSelected" >
+      <div class="row">
+      <div class="mr-auto">
+        <app-title [title]="'Usuario:' + usuarioSelected.apelido"></app-title>   
+      </div>
+      <div class="mr-auto">
+        <button class="btn btn-sm btn-outline-danger"(click)="voltar()">
+          Fechar
+        </button>
+      </div>
+    </div>
+    
+    <form [formGroup]="usuarioForm"(submit)="usuarioSubmit">
+      
+      <div class="form-group"  >
+        <label for="formGroupExampleInput">Nome Completo</label>
+        <input type="text"  formControlName="nomeCompleto" class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput2">Apelido</label>
+        <input type="text"   formControlName="apelido"  class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput2">E-mail</label>
+        <input type="text" formControlName="email" class="form-control">
+      </div>
+      <div class="form-group">
+        <hr>
+        <button class="btn btn-sm btn-success" [disabled]="!usuarioForm.valid">Enviar</button>
+      </div>
+    </form>
+  </div>
+  
+  <div [ngClass]= "{'col-sm-6': usuarioSelected, 'col-sm-12': !usuarioSelected}">
+    <app-title [title]="title"></app-title>  
+    
+    <table class="table table-hover table-light">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Detalhes</th>
+          <th scope="col">Id</th>
+          <th scope="col">Nome do Completo</th>
+          <th scope="col">Apelido</th>
+          <th scope="col">E-mail</th>
+          <th scope="col">Opções</th>
+        </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let usuario of usuarios">
+           <td><button (click)="usuarioSelect(usuario)" class=" btn btn-sm btn-outline-primary">Ver mais</button> 
+            <td scope="row">{{usuario.id}}</td>
+            <td>{{usuario.nomeCompleto}}</td>
+            <td>{{usuario.apelido}}</td>
+            <td>{{usuario.email}}</td>
+
+            <td>
+              <div class="btn-group">
+                <button (click)="openModal(template)" class="btn btn-sm btn-success">Agenda</button>
+                <button class="btn btn-outline-danger">Alterar</button>
+              </div>
+            </td>
+            
+          </tbody>
+        </table>
+      </div>>
+</div>
+
+
+<ng-template #template>
+  <div class="modal-header">
+    <h4 class="modal-title pull-left">Modal</h4>
+    <button type="button" class="btn-close close pull-right" aria-label="Close" (click)="modalRef?.hide()">
+      <span aria-hidden="true" class="visually-hidden">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    This is a modal.
+  </div>
+</ng-template>
